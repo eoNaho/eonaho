@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code+Bold&pause=1000&color=8100CF&center=true&vCenter=true&height=140&width=800&lines=%E2%9C%A8Welcome+to+my+profile%E2%9C%A8)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code+Bold&pause=1000&color=8100CF&center=true&vCenter=true&width=800&lines=%E2%9C%A8Welcome+to+my+profile%E2%9C%A8)](https://git.io/typing-svg)
 <h1 align="center">👋 Hey, I'm eoNaho</h1>
 <p align="center">
    <a href="https://discord.gg/4u96kdmajf"><img src="https://img.shields.io/discord/1213969584227352627?label=Discord&style=for-the-badge" alt="Discord server" /></a>
